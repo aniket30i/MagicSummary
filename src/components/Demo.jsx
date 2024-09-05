@@ -1,7 +1,11 @@
-import React from "react";
-
+import { useState, useEffect } from "react";
+import { copy, linkIcon, loader, tick } from "../assets";
 const Demo = () => {
-  return <div>Demo</div>;
+  return (
+    <section className="mt-16 w-full max-w-xl">
+      <div className="flex flex-column fe"></div>
+    </section>
+  );
 };
 
 export default Demo;
