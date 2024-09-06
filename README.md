@@ -2,7 +2,7 @@
 
 A web application that provides AI-generated summaries of articles or text using an external API. The application also keeps a history of past summaries for easy access.
 
-![pc1](https://github.com/user-attachments/assets/7c29a30e-25cd-4972-812f-6a118294b2e3)
+![pcx](https://github.com/user-attachments/assets/eacbd5fa-0469-43d9-bfe4-93b111234535)
 
 ## Demo
 You can try the live version 
