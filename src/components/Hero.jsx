@@ -1,10 +1,13 @@
-import { logo } from "../assets";
+import jester from "../assets/jester.png";
 
 const Hero = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
-        <img src={logo} alt="logo.pic" className="w-28 object-contain" />
+        <div className="flex flex-col gap-2 items-center font-inter border-black border-2">
+          <img src={jester} alt="logo.pic" className="w-14 object-contain" />
+          <p className="text-l bg-black text-yellow-50">Mr Jister</p>
+        </div>
         <button
           type="button"
           onClick={() =>
